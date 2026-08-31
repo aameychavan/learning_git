@@ -1,2 +1,3 @@
 # learning_git
-this is my first git repo. this is an learning phase repo.
+This is my first git repo. This is a learning phase repo./n
+Author - Amey Chavan
