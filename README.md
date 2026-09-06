@@ -26,3 +26,16 @@ I will be adding simple projects and programs here to improve my programming and
 🔧 Git & GitHub practice
 <br>
 📁 Small experiments and learning exercises
+<br>
+<br>
+🚀 My Learning Journey
+<br>
+<br>
+I am a beginner and this repository represents the starting point of my journey into programming and software development.
+<br>
+I will keep updating this repository as I learn new concepts and build more projects.
+<br>
+<br>
+👨‍💻 Author
+<br>
+Amey Chavan
